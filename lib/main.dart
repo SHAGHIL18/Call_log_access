@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
         timestamp: DateTime.now(),
       ),
       CustomCallLog(
-        callerName: '67890987654',
+        callerName: 'Noor',
         phoneNumber: '8876543560',
         callDuration: '3 minutes',
         timestamp: DateTime.now(),
