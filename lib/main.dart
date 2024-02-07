@@ -61,27 +61,27 @@ class _MyHomePageState extends State<MyHomePage> {
     // Add default entries
     callLogs.addAll([
       CustomCallLog(
-        callerName: 'Sai Shivani',
-        phoneNumber: '6305251883',
-        callDuration: '5 minutes',
+        callerName: 'Shaghil',
+        phoneNumber: '7207180403',
+        callDuration: '18 minutes',
         timestamp: DateTime.now(),
       ),
       CustomCallLog(
-        callerName: 'Bhavitha',
-        phoneNumber: '9876543210',
+        callerName: 'sohail',
+        phoneNumber: '1234567890',
         callDuration: '8 minutes',
         timestamp: DateTime.now(),
       ),
       CustomCallLog(
-        callerName: 'nani',
-        phoneNumber: '1234567890',
-        callDuration: '20 minutes',
+        callerName: 'saad',
+        phoneNumber: '0987654321',
+        callDuration: '2 minutes',
         timestamp: DateTime.now(),
       ),
       CustomCallLog(
-        callerName: 'Architha',
+        callerName: '67890987654',
         phoneNumber: '8876543560',
-        callDuration: '30 minutes',
+        callDuration: '3 minutes',
         timestamp: DateTime.now(),
       ),
       // Add more call logs as needed
