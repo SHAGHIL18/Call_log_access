@@ -1,34 +1,34 @@
-# Voilacode-project
+# call_log_access_app
 
-
-# Flutter Call Log Access App
-# classico for flutter demo app
-
-This Flutter call log access app allows users to access and display call logs on their device. It provides features to view, search, and add custom call logs.
-
-## Features
-
-- View a list of call logs with caller names, phone numbers, call durations, and timestamps.
-- Search for specific call logs using the search functionality.
-- Add new custom call logs with caller names, phone numbers, and call durations.
-- Sort call logs based on timestamps.
-
-## Prerequisites
-
-Before running the app, ensure you have the necessary dependencies installed:
-
-- Flutter SDK
-- Dart SDK
-- Android Studio or Xcode (for running on Android or iOS devices)
+A new Flutter project.
 
 ## Getting Started
 
-1. Clone the repository:
+This project is a starting point for a Flutter application.
 
-   ```bash
-   git clone https://github.com/SHAGHIL18/Call_log_access.git
+A few resources to get you started if this is your first Flutter project:
 
-2.Install dependencies:
-  flutter pub get
-3. Run the app:
-   flutter run
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference
+
+project instructions:
+# Call Log Access App
+
+This Flutter app allows you to access and manage call logs on your device. You can view, search, and add new call logs.
+
+## Features
+
+- Retrieve and display call logs.
+- Search functionality to filter call logs.
+- Add new call logs with caller name, phone number, and call duration and time stamp.
+- Sort call logs based on timestamp.
+- Centered title for a polished UI.
+
+## Prerequisites
+
+- Flutter,dart-sdk installed on your machine.
+
